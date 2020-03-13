@@ -24,7 +24,7 @@ from math import log</p>
 Code base pulls from:
 <a href="https://www.earthdatascience.org/courses/use-data-open-source-python/intro-vector-data-python/spatial-data-vector-shapefiles/intro-to-coordinate-reference-systems-python/">EarthDataScience.org</a>,
 <a href="https://github.com/bendoesdata/make-a-map-geopandas/blob/master/Let's%20make%20a%20map!%20Geopandas%20and%20Matplotlib.ipynb">
-bendoesdata<\a>, and other sources.
+bendoesdata</a>, and other sources.
 
 Note: this is an <a href="https://github.com/gboeing/osmnx/issues/45#issuecomment-430781178">important update</a> for installing rtree.
 
